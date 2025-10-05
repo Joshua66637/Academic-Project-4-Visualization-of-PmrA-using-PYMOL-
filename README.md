@@ -33,5 +33,3 @@ The molecular animation was generated using **PyMOL’s ray tracing** mode for h
 > DOI: [10.1038/ncomms9838](https://doi.org/10.1038/ncomms9838)  
 
 **PDB ID:** [4S04 — PmrA–DNA complex](https://www.rcsb.org/structure/4s04)
-
-This project is distributed for educational and research purposes.

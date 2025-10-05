@@ -21,7 +21,7 @@ Understanding its structure helps in **drug resistance research** and therapeuti
 
 The molecular animation was generated using **PyMOL’s ray tracing** mode for high-quality rendering.
 
-▶️ **[Watch the full ray-traced video on Google Drive](https://drive.google.com/file/d/1VWNE1pi8G_uVCd4sAbmHepLeP5YFqMEF/view?usp=sharing)**
+▶️ **[Watch the full ray-traced video](https://drive.google.com/file/d/1VWNE1pi8G_uVCd4sAbmHepLeP5YFqMEF/view?usp=sharing)**
 
 ---
 

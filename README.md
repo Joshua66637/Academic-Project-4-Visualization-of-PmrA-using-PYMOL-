@@ -1,5 +1,5 @@
 # Project Title: Molecular Vizualization using PYMOL
-## Course: Foundations of Bioinformtics (MSc Bioinformatics) 
+## Course: Foundations of Bioinformatics (MSc Bioinformatics) 
 
 ## Overview
 Active Site Visualization of the PmrA–DNA Complex (PDB ID: 4S04)
